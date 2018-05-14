@@ -32,5 +32,6 @@
     <!-- Whether notify fingerprint client of successful cancelled authentication -->
     <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 
-    <integer name="config_flashlightProximityTimeout">3000</integer>
+<!--    <integer name="config_flashlightProximityTimeout">3000</integer> -->
+
 </resources>
